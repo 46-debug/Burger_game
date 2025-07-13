@@ -24,3 +24,9 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.cart {
+  background: linear-gradient(90deg, #FFC701 0%, #399400 31.76%, #C6B9FF 69.31%, #581221 100%);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000;
+}
